@@ -58,7 +58,3 @@ Leia um valor como string e mostre:
 ### **Exercício 10 – Desconto no produto**
 Receba o valor de um produto e calcule o preço final com 10% de desconto.
 
----
-
-## 📂 Estrutura desta pasta
-
