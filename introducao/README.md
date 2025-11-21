@@ -1,0 +1,8 @@
+02_variaveis_e_operadores
+03_estruturas_de_decisao
+04_listas_e_tuplas
+05_estruturas_de_repeticao
+06_funcoes
+07_dicionarios
+08_arquivos
+09_desafios
