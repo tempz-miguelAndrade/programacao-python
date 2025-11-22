@@ -11,4 +11,4 @@ anoAtual = hoje.year
 
 calculoIdade = anoAtual - anoNascimento
 
-print(f"A sua idade atualmente é: {calculoIdade}");
+print(f"A sua idade atualmente é: {calculoIdade}")
